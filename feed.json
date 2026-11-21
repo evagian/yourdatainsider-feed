@@ -1,0 +1,416 @@
+{
+ "generated_at": "2026-11-21T20:01:03Z",
+ "delay_minutes": 15,
+ "count": 50,
+ "items": [
+  {
+   "id": "1cd293ee6b3f343c",
+   "seen_at": "2026-11-21T19:42:02Z",
+   "source": "CryptoSlate",
+   "kind": "news",
+   "link": "https://cryptoslate.com/russia-bitcoin-trading-rules-moscow-exchange/",
+   "title": "Russia allows Bitcoin trading as sanctioned Moscow Exchange prepares December launch"
+  },
+  {
+   "id": "6d11a9e2efe0c379",
+   "seen_at": "2026-11-21T19:34:03Z",
+   "source": "Watcher Guru",
+   "kind": "telegram",
+   "link": "https://t.me/WatcherGuru/16240",
+   "title": "JUST IN: Elon Musk's Tesla $TSLA officially begins rolling out FSD v15.."
+  },
+  {
+   "id": "fc65a2b24331b8b0",
+   "seen_at": "2026-11-21T18:52:05Z",
+   "source": "BWEnews",
+   "kind": "telegram",
+   "link": "https://t.me/bwenews/16629",
+   "title": "AggrNews: *JUDGE RULES $25M MEV HEIST THAT HONEYPOTTED OTHER SANDWICH BOTS WASN'T WIRE FRAUD, ACQUITS MIT BROTHERS."
+  },
+  {
+   "id": "f8b1af2774934913",
+   "seen_at": "2026-11-21T18:52:05Z",
+   "source": "BWEnews",
+   "kind": "telegram",
+   "link": "https://t.me/bwenews/16633",
+   "title": "AggrNews: PERP DEX VARIATIONAL RAISES $110M AT $1.5B VALUATION: BBG ."
+  },
+  {
+   "id": "f744fd4e14b5d35c",
+   "seen_at": "2026-11-21T18:52:05Z",
+   "source": "BWEnews",
+   "kind": "telegram",
+   "link": "https://t.me/bwenews/16637",
+   "title": "Binance EN: Binance Has Completed the Velodrome Finance (VELODROME) Token Merge to Aerodrome (AERO) and the AERO Contract Swap ."
+  },
+  {
+   "id": "ed51ed31c3fd6ee3",
+   "seen_at": "2026-11-21T18:52:05Z",
+   "source": "BWEnews",
+   "kind": "telegram",
+   "link": "https://t.me/bwenews/16622",
+   "title": "Tree News: EXCLUSIVE - FORMER NVIDIA CEO JENSEN HUANG HAD AN INTIMATE RELATIONSHIP WITH A SECOND EMPLOYEE, SOURCES SAY - RTRS ."
+  },
+  {
+   "id": "ecb9b7a605f86d1f",
+   "seen_at": "2026-11-21T18:52:05Z",
+   "source": "BWEnews",
+   "kind": "telegram",
+   "link": "https://t.me/bwenews/16631",
+   "title": "Binance EN: Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-11-18) ."
+  },
+  {
+   "id": "e10e35a1c3cbfc11",
+   "seen_at": "2026-11-21T18:52:05Z",
+   "source": "BWEnews",
+   "kind": "telegram",
+   "link": "https://t.me/bwenews/16625",
+   "title": "UPBIT LISTING: 생텀(SANC) 신규 거래지원 안내 (KRW, BTC, USDT 마켓) ."
+  },
+  {
+   "id": "d9e1f7198b4f7583",
+   "seen_at": "2026-11-21T18:52:05Z",
+   "source": "BWEnews",
+   "kind": "telegram",
+   "link": "https://t.me/bwenews/16639",
+   "title": "Binance EN: Binance Will Extend the Monitoring Tag to Include BANK, INIT, MITO, ONE, THE & ZIL, Remove the Seed Tag for MORPHO & HYPE on 2026-11-20 ."
+  },
+  {
+   "id": "bdf17915f8779fb7",
+   "seen_at": "2026-11-21T18:52:05Z",
+   "source": "BWEnews",
+   "kind": "telegram",
+   "link": "https://t.me/bwenews/16632",
+   "title": "AggrNews: *GERMAN JUDGE PROPOSES DROPPING MOVIE2K CASE IF DEFENDANT HANDS OVER 40,000 BTC WORTH $2.6B: DPA."
+  },
+  {
+   "id": "bb67929f17c3e2ac",
+   "seen_at": "2026-11-21T18:52:05Z",
+   "source": "BWEnews",
+   "kind": "telegram",
+   "link": "https://t.me/bwenews/16624",
+   "title": "AggrNews: DOJ SEIZES $1.2BLN IN NORTH KOREA-LINKED CRYPTO THEFT, DISMANTLES \"FACESTEALER\" DEEPFAKE SCHEME TIED TO $6BLN BINANCE HACK: WEBSITE ."
+  },
+  {
+   "id": "ae2d1d23f53ca2ea",
+   "seen_at": "2026-11-21T18:52:05Z",
+   "source": "BWEnews",
+   "kind": "telegram",
+   "link": "https://t.me/bwenews/16628",
+   "title": "BWENEWS: On-chain analysis shows ~$15.5M drained from two Lighter accounts via their own bot API keys ."
+  },
+  {
+   "id": "ac23df84e9a8149c",
+   "seen_at": "2026-11-21T18:52:05Z",
+   "source": "BWEnews",
+   "kind": "telegram",
+   "link": "https://t.me/bwenews/16620",
+   "title": "BWENEWS AI (No Accuracy Guaranteed): THE BLOCK: Securitize and Ethena's $100 million BlackRock BUIDL liquidity facility goes live ."
+  },
+  {
+   "id": "a3a3c0b396b575b4",
+   "seen_at": "2026-11-21T18:52:05Z",
+   "source": "BWEnews",
+   "kind": "telegram",
+   "link": "https://t.me/bwenews/16634",
+   "title": "Bitget Listing: Bitget Announces Listing of IGVUSDT, ARTYUSDT, CCJUSDT and NEMUSDT Stock Perps ."
+  },
+  {
+   "id": "8680e6265eca5c58",
+   "seen_at": "2026-11-21T18:52:05Z",
+   "source": "BWEnews",
+   "kind": "telegram",
+   "link": "https://t.me/bwenews/16626",
+   "title": "Bithumb Listing: [마켓 추가] 네오소울(DNA) 원화 마켓 추가 ."
+  },
+  {
+   "id": "75da7905ca8cdba5",
+   "seen_at": "2026-11-21T18:52:05Z",
+   "source": "BWEnews",
+   "kind": "telegram",
+   "link": "https://t.me/bwenews/16635",
+   "title": "Bithumb Listing: [마켓 추가] 키네틱(KNTQ) 원화 마켓 추가 ."
+  },
+  {
+   "id": "6d9e8089cac3c737",
+   "seen_at": "2026-11-21T18:52:05Z",
+   "source": "BWEnews",
+   "kind": "telegram",
+   "link": "https://t.me/bwenews/16640",
+   "title": "Binance EN: Binance Futures Will Launch Multiple TradFi USDⓈ-Margined Perpetual Contracts (2026-11-20) ."
+  },
+  {
+   "id": "4258a36d7ef26a9e",
+   "seen_at": "2026-11-21T18:52:05Z",
+   "source": "BWEnews",
+   "kind": "telegram",
+   "link": "https://t.me/bwenews/16623",
+   "title": "AggrNews: KALSHI IN TALKS FOR NEW FUNDING ROUND AT $65 BILLION VALUATION: BBG ."
+  },
+  {
+   "id": "3233c51e4c62688f",
+   "seen_at": "2026-11-21T18:52:05Z",
+   "source": "BWEnews",
+   "kind": "telegram",
+   "link": "https://t.me/bwenews/16621",
+   "title": "Tree News: EXCLUSIVE - KALSHI ENDS DONALD TRUMP JR'S ADVISOR CONTRACT - COMPANY SPOKESPERSON - RTRS ."
+  },
+  {
+   "id": "0c2d30d29c1d90bc",
+   "seen_at": "2026-11-21T18:52:05Z",
+   "source": "BWEnews",
+   "kind": "telegram",
+   "link": "https://t.me/bwenews/16636",
+   "title": "UPBIT LISTING: 스타크넷(STRK), 아이겐클라우드(EIGEN), 탈루스(US), 리퀘스트(REQ) 신규 거래지원 안내 (BTC, USDT 마켓) ."
+  },
+  {
+   "id": "0be786acb61b7c09",
+   "seen_at": "2026-11-21T18:52:05Z",
+   "source": "BWEnews",
+   "kind": "telegram",
+   "link": "https://t.me/bwenews/16638",
+   "title": "Tree News: *ANTHROPIC OPENS AT $111.50, IPO AT $83: BBG ."
+  },
+  {
+   "id": "02638d363b7a4549",
+   "seen_at": "2026-11-21T18:52:05Z",
+   "source": "BWEnews",
+   "kind": "telegram",
+   "link": "https://t.me/bwenews/16630",
+   "title": "AggrNews: *CFTC APPROVES BACKPACK AS FIRST DCO AND DCM UTILIZING BLOCKCHAIN TECHNOLOGY https://t.co/bMcsI0xb2m ."
+  },
+  {
+   "id": "b5f4b4d9235c1bf5",
+   "seen_at": "2026-11-21T18:52:02Z",
+   "source": "The Block",
+   "kind": "news",
+   "link": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+   "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers"
+  },
+  {
+   "id": "228d52d08106c106",
+   "seen_at": "2026-11-21T18:42:04Z",
+   "source": "Whale Alert",
+   "kind": "telegram",
+   "link": "https://t.me/whale_alert_io/105180",
+   "title": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 3,860 $BTC (232,335,978 USD) transferred from #Kraken to unknown wallet."
+  },
+  {
+   "id": "3ee5590c2d3d0c18",
+   "seen_at": "2026-11-21T18:42:02Z",
+   "source": "CryptoSlate",
+   "kind": "news",
+   "link": "https://cryptoslate.com/aaves-4-billion-usdc-borrow-cap-could-leave-just-190-million-available-for-withdrawals/",
+   "title": "Aave’s $4 billion USDC borrow cap could leave just $190 million available for withdrawals"
+  },
+  {
+   "id": "2cd08a10e74e8be7",
+   "seen_at": "2026-11-21T18:38:04Z",
+   "source": "Whale Alert",
+   "kind": "telegram",
+   "link": "https://t.me/whale_alert_io/105179",
+   "title": "🚨 🚨 🚨 🚨 🚨 🚨 142,500,000 $USDT (142,309,762 USD) transferred from unknown wallet to #Binance ."
+  },
+  {
+   "id": "a3131440a6774053",
+   "seen_at": "2026-11-21T18:30:05Z",
+   "source": "Whale Alert",
+   "kind": "telegram",
+   "link": "https://t.me/whale_alert_io/105178",
+   "title": "🚨 🚨 🚨 🚨 🚨 🚨 142,500,000 $USDT (142,418,442 USD) transferred from Tether Treasury to unknown wallet."
+  },
+  {
+   "id": "15ec9adbba939c4c",
+   "seen_at": "2026-11-21T18:22:04Z",
+   "source": "Whale Alert",
+   "kind": "telegram",
+   "link": "https://t.me/whale_alert_io/105177",
+   "title": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 213,200,000 $USDT (212,864,103 USD) transferred from #Bitfinex to Tether Treasury."
+  },
+  {
+   "id": "09d7ef3263cb0a9f",
+   "seen_at": "2026-11-21T18:20:05Z",
+   "source": "Whale Alert",
+   "kind": "telegram",
+   "link": "https://t.me/whale_alert_io/105176",
+   "title": "🚨 🚨 🚨 🚨 🚨 125,000,000 $USDT (124,800,250 USD) transferred from Tether Treasury to #Bitfinex ."
+  },
+  {
+   "id": "2439ea8842506386",
+   "seen_at": "2026-11-21T18:14:04Z",
+   "source": "Whale Alert",
+   "kind": "telegram",
+   "link": "https://t.me/whale_alert_io/105175",
+   "title": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 155,350,000 $USDT (155,147,146 USD) transferred from #Bitfinex to Tether Treasury."
+  },
+  {
+   "id": "27b4120b788dd0b8",
+   "seen_at": "2026-11-21T18:06:09Z",
+   "source": "Onchain Lens",
+   "kind": "telegram",
+   "link": "https://t.me/OnchainLens/8424",
+   "title": "WINTERMUTE LOSES $933.5K IN 24 HOURS ON HYPERLIQUID."
+  },
+  {
+   "id": "7ed728061cc96544",
+   "seen_at": "2026-11-21T18:04:02Z",
+   "source": "Decrypt",
+   "kind": "news",
+   "link": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
+   "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump"
+  },
+  {
+   "id": "479b3e28ba40b116",
+   "seen_at": "2026-11-21T18:02:04Z",
+   "source": "Whale Alert",
+   "kind": "telegram",
+   "link": "https://t.me/whale_alert_io/105174",
+   "title": "🚨 🚨 🚨 934 $BTC (56,116,296 USD) transferred from unknown wallet to #Coinbase ."
+  },
+  {
+   "id": "1bf703ed26f6140b",
+   "seen_at": "2026-11-21T17:58:05Z",
+   "source": "Whale Alert",
+   "kind": "telegram",
+   "link": "https://t.me/whale_alert_io/105173",
+   "title": "💵 💵 💵 💵 💵 💵 💵 💵 💵 💵 250,000,000 $USDC (250,113,125 USD) minted at USDC Treasury."
+  },
+  {
+   "id": "e31cafe8502ec89b",
+   "seen_at": "2026-11-21T17:52:02Z",
+   "source": "CoinDesk",
+   "kind": "news",
+   "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+   "title": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open"
+  },
+  {
+   "id": "c803fc905420041b",
+   "seen_at": "2026-11-21T17:46:04Z",
+   "source": "Whale Alert",
+   "kind": "telegram",
+   "link": "https://t.me/whale_alert_io/105172",
+   "title": "🚨 🚨 🚨 🚨 🚨 100,000,000 $USDC (100,046,650 USD) transferred from #Coinbase to unknown wallet."
+  },
+  {
+   "id": "27120a66dff47f0b",
+   "seen_at": "2026-11-21T17:42:06Z",
+   "source": "Onchain Lens",
+   "kind": "telegram",
+   "link": "https://t.me/OnchainLens/8422",
+   "title": "💧 Rainbet is the #1 Non-KYC crypto casino & sportsbook with instant withdrawals!"
+  },
+  {
+   "id": "0d22b36fee77f2e5",
+   "seen_at": "2026-11-21T17:42:06Z",
+   "source": "Onchain Lens",
+   "kind": "telegram",
+   "link": "https://t.me/OnchainLens/8423",
+   "title": "Onchain Lens Channel pinned « 💧 Rainbet is the #1 Non-KYC crypto casino & sportsbook with instant withdrawals!"
+  },
+  {
+   "id": "74407f8b9bc4d0bf",
+   "seen_at": "2026-11-21T17:42:02Z",
+   "source": "CryptoSlate",
+   "kind": "news",
+   "link": "https://cryptoslate.com/singapore-wants-to-test-stablecoin-payments-by-ai-agents/",
+   "title": "Singapore wants to test stablecoin payments by AI agents"
+  },
+  {
+   "id": "e449382105e3dc6a",
+   "seen_at": "2026-11-21T17:40:07Z",
+   "source": "Onchain Lens",
+   "kind": "telegram",
+   "link": "https://t.me/OnchainLens/8421",
+   "title": "NEWLY CREATED WALLET BUYS 10.5M WORTH ETH OTC."
+  },
+  {
+   "id": "a51f40d5e47f576a",
+   "seen_at": "2026-11-21T17:08:04Z",
+   "source": "Whale Alert",
+   "kind": "telegram",
+   "link": "https://t.me/whale_alert_io/105171",
+   "title": "📉 📉 📉 SEC Says Fake Crypto Trading Platforms and Investment Advisers Stole More Than $37 Million From U.S."
+  },
+  {
+   "id": "9cbadb34a7a37981",
+   "seen_at": "2026-11-21T17:06:04Z",
+   "source": "Whale Alert",
+   "kind": "telegram",
+   "link": "https://t.me/whale_alert_io/105170",
+   "title": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 3,000 $BTC (180,520,159 USD) transferred from #Binance to #Kraken ."
+  },
+  {
+   "id": "1caeefb4b1bd3081",
+   "seen_at": "2026-11-21T17:02:02Z",
+   "source": "Decrypt",
+   "kind": "news",
+   "link": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+   "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges"
+  },
+  {
+   "id": "1317c9d973986557",
+   "seen_at": "2026-11-21T16:44:02Z",
+   "source": "CoinDesk",
+   "kind": "news",
+   "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+   "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain"
+  },
+  {
+   "id": "2650586eb974c1d6",
+   "seen_at": "2026-11-21T16:42:04Z",
+   "source": "Whale Alert",
+   "kind": "telegram",
+   "link": "https://t.me/whale_alert_io/105169",
+   "title": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 3,381 $BTC (202,682,922 USD) transferred from #Kraken to unknown wallet."
+  },
+  {
+   "id": "f635c779317eb35f",
+   "seen_at": "2026-11-21T16:41:02Z",
+   "source": "X @EricBalchunas",
+   "kind": "x",
+   "link": "https://x.com/i/web/status/2124181169935679503",
+   "x": {
+    "post_id": "2124181169935679503",
+    "author_id": "149571760",
+    "embed_url": "https://twitter.com/i/web/status/2124181169935679503"
+   }
+  },
+  {
+   "id": "077b054e61ceed40",
+   "seen_at": "2026-11-21T16:38:02Z",
+   "source": "CryptoSlate",
+   "kind": "news",
+   "link": "https://cryptoslate.com/a-bitcoin-drop-toward-53000-could-put-240-million-in-collateral-at-risk/",
+   "title": "A Bitcoin drop toward $53,000 could put $240 million in collateral at risk"
+  },
+  {
+   "id": "195e3815fe88bc03",
+   "seen_at": "2026-11-21T16:30:03Z",
+   "source": "Wu Blockchain",
+   "kind": "telegram",
+   "link": "https://t.me/wublockchainenglish/26908",
+   "title": "Vitalik Criticizes Racial Stereotypes in Netflix's Portrayal of CZ, Questions Whether It Is Racist."
+  },
+  {
+   "id": "22e153f6e26fb239",
+   "seen_at": "2026-11-21T16:02:02Z",
+   "source": "Decrypt",
+   "kind": "news",
+   "link": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
+   "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It"
+  },
+  {
+   "id": "22b54537ca318859",
+   "seen_at": "2026-11-21T15:55:02Z",
+   "source": "X @EricBalchunas",
+   "kind": "x",
+   "link": "https://x.com/i/web/status/2124169239661527266",
+   "x": {
+    "post_id": "2124169239661527266",
+    "author_id": "149571760",
+    "embed_url": "https://twitter.com/i/web/status/2124169239661527266"
+   }
+  }
+ ],
+ "disclaimer": "Information only, not investment advice."
+}
