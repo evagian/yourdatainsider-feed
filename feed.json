@@ -1,0 +1,416 @@
+{
+ "generated_at": "2026-11-28T15:36:03Z",
+ "delay_minutes": 15,
+ "count": 50,
+ "items": [
+  {
+   "id": "2c80b9708c39a601",
+   "seen_at": "2026-11-28T15:18:02Z",
+   "source": "The Block",
+   "kind": "news",
+   "link": "https://www.theblock.co/news/business/2026-11-28-cz-says-netflixs-the-altruists-is-basically-defamation-says-he-is-talking-to-lawyers-447599",
+   "title": "CZ says Netflix’s ‘The Altruists’ is ‘basically defamation,’ says he is talking to lawyers"
+  },
+  {
+   "id": "2d53b3cfb4fceea9",
+   "seen_at": "2026-11-28T14:42:02Z",
+   "source": "CryptoSlate",
+   "kind": "news",
+   "link": "https://cryptoslate.com/what-a-12-cent-bitcoin-etf-option-reveals-about-crash-protection/",
+   "title": "What a 12-cent Bitcoin ETF option reveals about crash protection"
+  },
+  {
+   "id": "e65565024a122f85",
+   "seen_at": "2026-11-28T14:37:07Z",
+   "source": "X @EricBalchunas",
+   "kind": "x",
+   "link": "https://x.com/i/web/status/2126686587903947060",
+   "x": {
+    "post_id": "2126686587903947060",
+    "author_id": "149571760",
+    "embed_url": "https://twitter.com/i/web/status/2126686587903947060"
+   }
+  },
+  {
+   "id": "fdad596dc95e0aef",
+   "seen_at": "2026-11-28T14:02:02Z",
+   "source": "Decrypt",
+   "kind": "news",
+   "link": "https://decrypt.co/384126/russia-pigeons-icyborg-drones-you-can-now-hire-them",
+   "title": "Russia Is Turning Pigeons Into Cyborg Drones—and You Can Now Hire Them"
+  },
+  {
+   "id": "5898e24c1da75b9d",
+   "seen_at": "2026-11-28T14:02:02Z",
+   "source": "CoinDesk",
+   "kind": "news",
+   "link": "https://www.coindesk.com/business/2026/11/28/bybit-s-usd1-4-billion-hack-postmortem-is-ready-you-won-t-get-to-see-it",
+   "title": "Bybit’s $1.4 billion hack postmortem is ready. You won’t get to see it."
+  },
+  {
+   "id": "b9e93b678cd69470",
+   "seen_at": "2026-11-28T13:42:02Z",
+   "source": "CryptoSlate",
+   "kind": "news",
+   "link": "https://cryptoslate.com/bitcoin-futures-were-just-38-above-spot-before-mondays-funding-test/",
+   "title": "Bitcoin futures were just $38 above spot before Monday’s funding test"
+  },
+  {
+   "id": "85058c3ecb4073fe",
+   "seen_at": "2026-11-28T13:34:02Z",
+   "source": "Cointelegraph",
+   "kind": "news",
+   "link": "https://cointelegraph.com/news/justin-sun-calls-for-trump-family-linked-wlfi-token-to-be-delisted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "title": "Justin Sun calls for Trump family-linked WLFI token to be delisted"
+  },
+  {
+   "id": "9a74ad9b1c99076d",
+   "seen_at": "2026-11-28T13:04:02Z",
+   "source": "CoinDesk",
+   "kind": "news",
+   "link": "https://www.coindesk.com/markets/2026/11/28/bitcoin-not-delivering-the-bear-market-has-digital-asset-veteran-questioning-btc-s-value",
+   "title": "Bitcoin not delivering: The bear market has digital asset veteran questioning BTC's value"
+  },
+  {
+   "id": "26cd8f2e9b859827",
+   "seen_at": "2026-11-28T12:42:02Z",
+   "source": "CryptoSlate",
+   "kind": "news",
+   "link": "https://cryptoslate.com/us-saving-rate-october-income-medicare-rebate/",
+   "title": "Americans are spending 2.1% more than in June but getting less than 1% more for their money"
+  },
+  {
+   "id": "bf13bb5a28a6d93b",
+   "seen_at": "2026-11-28T12:28:08Z",
+   "source": "Wu Blockchain",
+   "kind": "telegram",
+   "link": "https://t.me/wublockchainenglish/26984",
+   "title": "Highlight Clip: CZ: Negative Comments Could Discourage Vitalik."
+  },
+  {
+   "id": "878dcb4e434cf4c5",
+   "seen_at": "2026-11-28T12:14:02Z",
+   "source": "CryptoSlate",
+   "kind": "news",
+   "link": "https://cryptoslate.com/donald-trump-backed-wlfi-loses-nearly-half-a-billion-dollars-in-market-value-as-usd1-breaks-peg/",
+   "title": "Donald Trump-backed WLFI loses nearly half a billion dollars in market value as USD1 breaks peg"
+  },
+  {
+   "id": "cc75e5f891f0e93f",
+   "seen_at": "2026-11-28T11:07:41Z",
+   "source": "Wu Blockchain",
+   "kind": "telegram",
+   "link": "https://t.me/wublockchainenglish/26983",
+   "title": "Former FTX COO First Reveals: Justin Sun Offered $4B Rescue, Arriving ~10 Minutes After Bankruptcy Appointment."
+  },
+  {
+   "id": "1a161db3eda52ecb",
+   "seen_at": "2026-11-28T11:02:02Z",
+   "source": "CryptoSlate",
+   "kind": "news",
+   "link": "https://cryptoslate.com/vitalik-buterin-warns-against-rushing-ethereum-gas-change-that-could-break-some-contracts/",
+   "title": "Vitalik Buterin warns against rushing Ethereum gas change that could break some contracts"
+  },
+  {
+   "id": "53df76d24c524fb3",
+   "seen_at": "2026-11-28T10:38:02Z",
+   "source": "Cointelegraph",
+   "kind": "news",
+   "link": "https://cointelegraph.com/news/asean3-agrees-on-initiative-to-explore-crypto-payments-cooperation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "title": "ASEAN+3 agrees on initiative to explore crypto payments cooperation"
+  },
+  {
+   "id": "fc911efbdfb117de",
+   "seen_at": "2026-11-28T09:38:07Z",
+   "source": "Whale Alert",
+   "kind": "telegram",
+   "link": "https://t.me/whale_alert_io/105383",
+   "title": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 7,500 $BTC (447,135,030 USD) transferred from Binance SAFU to unknown wallet."
+  },
+  {
+   "id": "d6a372054d173071",
+   "seen_at": "2026-11-28T09:34:02Z",
+   "source": "CoinDesk",
+   "kind": "news",
+   "link": "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50",
+   "title": "Trump-linked crypto token WLFI plunges 50% to record lows"
+  },
+  {
+   "id": "d651513094fa324d",
+   "seen_at": "2026-11-28T08:52:10Z",
+   "source": "Whale Alert",
+   "kind": "telegram",
+   "link": "https://t.me/whale_alert_io/105382",
+   "title": "🚨 🚨 🚨 🚨 🚨 1,890 $BTC (112,644,542 USD) transferred from unknown wallet to unknown wallet."
+  },
+  {
+   "id": "0236dcb5e97e4de6",
+   "seen_at": "2026-11-28T08:32:13Z",
+   "source": "Whale Alert",
+   "kind": "telegram",
+   "link": "https://t.me/whale_alert_io/105381",
+   "title": "📉 📉 📉 Justin Sun urges delisting of World Liberty Financial’s WLFI and USD1 after WLFI drops more than 50% in 24 hours."
+  },
+  {
+   "id": "234d06fbf8f86079",
+   "seen_at": "2026-11-28T08:32:02Z",
+   "source": "CryptoSlate",
+   "kind": "news",
+   "link": "https://cryptoslate.com/saudi-oil-hormuz-bypass-kuwait-opec-quotas/",
+   "title": "Saudi oil shows why the next OPEC+ production increase could deliver less than markets expect"
+  },
+  {
+   "id": "9aa166bcf6b445f5",
+   "seen_at": "2026-11-28T07:54:03Z",
+   "source": "Cointelegraph",
+   "kind": "news",
+   "link": "https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "title": "Binance receives in-principle approval, plans Asia hub in Bhutan"
+  },
+  {
+   "id": "9a7279453c664d30",
+   "seen_at": "2026-11-28T07:46:05Z",
+   "source": "Watcher Guru",
+   "kind": "telegram",
+   "link": "https://t.me/WatcherGuru/16376",
+   "title": "JUST IN: Tron founder Justin Sun accuses Trump's family crypto project World Liberty Financial of investor fraud, calls for exchanges to delist $WLFI and USD1.."
+  },
+  {
+   "id": "c0cc721b4af49414",
+   "seen_at": "2026-11-28T07:34:08Z",
+   "source": "Lookonchain",
+   "kind": "telegram",
+   "link": "https://t.me/lookonchainchannel/11312",
+   "title": "USD1 briefly depegged to $0.94!."
+  },
+  {
+   "id": "0adf39fd3156f087",
+   "seen_at": "2026-11-28T07:26:05Z",
+   "source": "Watcher Guru",
+   "kind": "telegram",
+   "link": "https://t.me/WatcherGuru/16375",
+   "title": "JUST IN: Trump family's World Liberty Financial $USD1 crypto stablecoin depegs from the US dollar.."
+  },
+  {
+   "id": "14f12526013fb207",
+   "seen_at": "2026-11-28T07:22:08Z",
+   "source": "Lookonchain",
+   "kind": "telegram",
+   "link": "https://t.me/lookonchainchannel/11311",
+   "title": "Not every #BitcoinOG is a whale!."
+  },
+  {
+   "id": "ac34d1f8e7e0911c",
+   "seen_at": "2026-11-28T07:14:08Z",
+   "source": "Wu Blockchain",
+   "kind": "telegram",
+   "link": "https://t.me/wublockchainenglish/26982",
+   "title": "Binance Co-CEO He Yi Says $6.3B Hack May Be Linked to Excessive Permissions During AI Rollout."
+  },
+  {
+   "id": "64a97306d23dbe95",
+   "seen_at": "2026-11-28T07:00:16Z",
+   "source": "Lookonchain",
+   "kind": "telegram",
+   "link": "https://t.me/lookonchainchannel/11309",
+   "title": "Meet 0x0488, a big gambler on #Hyperliquid !."
+  },
+  {
+   "id": "cfd6b93416a93c2e",
+   "seen_at": "2026-11-28T06:50:08Z",
+   "source": "Lookonchain",
+   "kind": "telegram",
+   "link": "https://t.me/lookonchainchannel/11308",
+   "title": "Trader 0x70a0 on @Aster_DEX is up $4.3M in just 10 days!."
+  },
+  {
+   "id": "09b7d4fabf356ce9",
+   "seen_at": "2026-11-28T06:48:05Z",
+   "source": "Whale Alert",
+   "kind": "telegram",
+   "link": "https://t.me/whale_alert_io/105380",
+   "title": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 9,246 $BTC (553,593,128 USD) transferred from unknown wallet to unknown wallet."
+  },
+  {
+   "id": "9d278d1a457ffd06",
+   "seen_at": "2026-11-28T06:16:04Z",
+   "source": "Wu Blockchain",
+   "kind": "telegram",
+   "link": "https://t.me/wublockchainenglish/26981",
+   "title": "Trump-Backed WLFI Plunges Over 59% in 24 Hours."
+  },
+  {
+   "id": "39f2007a5cc635e0",
+   "seen_at": "2026-11-28T06:14:14Z",
+   "source": "BWEnews",
+   "kind": "telegram",
+   "link": "https://t.me/bwenews/16651",
+   "title": "EquationNews: Trump Family’s crypto project Wolrd Liberty Finance (WLFI) price dropped more than 50% within the last 1 hour —market ."
+  },
+  {
+   "id": "39c7733d0647bba1",
+   "seen_at": "2026-11-28T06:04:07Z",
+   "source": "Binance Announcements",
+   "kind": "telegram",
+   "link": "https://t.me/binance_announcements/9180",
+   "title": "SAFU Update: Adjusting Fund Holdings ."
+  },
+  {
+   "id": "5d4eb0bfda9cefb3",
+   "seen_at": "2026-11-28T05:50:05Z",
+   "source": "Watcher Guru",
+   "kind": "telegram",
+   "link": "https://t.me/WatcherGuru/16374",
+   "title": "JUST IN: 🇺🇸 Federal regulators officially shut down $6 billion United Fidelity Bank, marking the biggest US bank failure since April 2024.."
+  },
+  {
+   "id": "a8cbdf7f2bf190d2",
+   "seen_at": "2026-11-28T05:28:13Z",
+   "source": "Watcher Guru",
+   "kind": "telegram",
+   "link": "https://t.me/WatcherGuru/16373",
+   "title": "JUST IN: Trump family's World Liberty Financial $WLFI cryptocurrency crashes over 35% in 15 minutes.."
+  },
+  {
+   "id": "f21ade9262ffcb12",
+   "seen_at": "2026-11-28T05:24:06Z",
+   "source": "Wu Blockchain",
+   "kind": "telegram",
+   "link": "https://t.me/wublockchainenglish/26980",
+   "title": "Bitcoin and Ethereum Spot ETFs See $389M and $69.27M in Net Outflows on November 27 (ET)."
+  },
+  {
+   "id": "2275aa9b53fcc6c2",
+   "seen_at": "2026-11-28T04:52:06Z",
+   "source": "CryptoSlate",
+   "kind": "news",
+   "link": "https://cryptoslate.com/bnb-chains-new-blockchain-could-make-the-same-pancakeswap-trade-27-more-expensive/",
+   "title": "BNB Chain’s new blockchain could make the same PancakeSwap trade 27% more expensive"
+  },
+  {
+   "id": "12f9a82b8e20fd0d",
+   "seen_at": "2026-11-28T04:20:04Z",
+   "source": "Wu Blockchain",
+   "kind": "telegram",
+   "link": "https://t.me/wublockchainenglish/26979",
+   "title": "Highlight Clip: The Big Reset Author: My Biggest Investment Mistake Was Being Bullish on Bitcoin in 2014 but Not Buying."
+  },
+  {
+   "id": "02e4e583484aa30b",
+   "seen_at": "2026-11-28T04:14:02Z",
+   "source": "The Block",
+   "kind": "news",
+   "link": "https://www.theblock.co/newsletters/the-daily/2026-11-27-bitcoin-recovery-usdt-supply-ai-threat-bitcoin-more-crypto-news-447571",
+   "title": "Bitcoin recovery needs USDT supply growth: CryptoQuant, K33 weighs AI threat to Bitcoin, and more"
+  },
+  {
+   "id": "6f6aa9ac5083ca05",
+   "seen_at": "2026-11-28T02:58:06Z",
+   "source": "Wu Blockchain",
+   "kind": "telegram",
+   "link": "https://t.me/wublockchainenglish/26978",
+   "title": "Halogen Capital to Launch World's First Shariah-Compliant Bitcoin ETF, Bursa Malaysia's First Digital Currency ETF."
+  },
+  {
+   "id": "d97f4490a1bd0dce",
+   "seen_at": "2026-11-28T02:25:02Z",
+   "source": "X @EricBalchunas",
+   "kind": "x",
+   "link": "https://x.com/i/web/status/2126502344288583713",
+   "x": {
+    "post_id": "2126502344288583713",
+    "author_id": "149571760",
+    "embed_url": "https://twitter.com/i/web/status/2126502344288583713"
+   }
+  },
+  {
+   "id": "a1bb4385acdf5ade",
+   "seen_at": "2026-11-28T02:12:02Z",
+   "source": "CryptoSlate",
+   "kind": "news",
+   "link": "https://cryptoslate.com/binance-withdrawals-are-back-after-octobers-hack-and-heres-why-yours-might-still-be-blocked/",
+   "title": "Binance withdrawals are back after October’s hack and here’s why yours might still be blocked"
+  },
+  {
+   "id": "3038d63974d2161b",
+   "seen_at": "2026-11-28T02:02:07Z",
+   "source": "Lookonchain",
+   "kind": "telegram",
+   "link": "https://t.me/lookonchainchannel/11307",
+   "title": "dogeftw.sol unstaked 527,861 $SOL ($37.21M) 10 hours ago and then deposited 144,464 $SOL ($10.32M) into #FalconX to sell.."
+  },
+  {
+   "id": "884d500a4d4e5f6a",
+   "seen_at": "2026-11-28T01:56:22Z",
+   "source": "Lookonchain",
+   "kind": "telegram",
+   "link": "https://t.me/lookonchainchannel/11306",
+   "title": "WLFI( @worldlibertyfi ) sold 10,600 $ETH($17.58M) and 1,378 $mETH($2.48M) 4 hours ago.."
+  },
+  {
+   "id": "19618b01a3aaf38d",
+   "seen_at": "2026-11-28T00:52:00Z",
+   "source": "CryptoSlate",
+   "kind": "news",
+   "link": "https://cryptoslate.com/israeli-bank-lets-customers-buy-bitcoin-but-charges-them-2-to-get-in-and-2-to-get-out/",
+   "title": "Israeli bank lets customers buy Bitcoin but charges them 2% to get in and 2% to get out"
+  },
+  {
+   "id": "8d4a1621f2a3e000",
+   "seen_at": "2026-11-28T00:38:03Z",
+   "source": "Wu Blockchain",
+   "kind": "telegram",
+   "link": "https://t.me/wublockchainenglish/26977",
+   "title": "Highlight Clip: Jeff Yan: Hyperliquid Aims to Give Everyone Equal Access to Finance (ARCHIVE FOOTAGE)."
+  },
+  {
+   "id": "64439caa8bc82290",
+   "seen_at": "2026-11-28T00:26:08Z",
+   "source": "Onchain Lens",
+   "kind": "telegram",
+   "link": "https://t.me/OnchainLens/8463",
+   "title": "Smartestmoney is $34M up on his 1.38M $HYPE (~$87.86M) long."
+  },
+  {
+   "id": "8ebaa7632e39e588",
+   "seen_at": "2026-11-28T00:20:07Z",
+   "source": "Whale Alert",
+   "kind": "telegram",
+   "link": "https://t.me/whale_alert_io/105379",
+   "title": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 200,000,000 $USDT (199,837,200 USD) transferred from unknown wallet to Tether Treasury."
+  },
+  {
+   "id": "8cd9b7009dcca16b",
+   "seen_at": "2026-11-28T00:16:05Z",
+   "source": "Whale Alert",
+   "kind": "telegram",
+   "link": "https://t.me/whale_alert_io/105378",
+   "title": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 210,236,229 $USDT (210,079,437 USD) transferred from #Binance to unknown wallet."
+  },
+  {
+   "id": "a76abe0f738809a7",
+   "seen_at": "2026-11-28T00:00:07Z",
+   "source": "Whale Alert",
+   "kind": "telegram",
+   "link": "https://t.me/whale_alert_io/105377",
+   "title": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 200,000,000 $USDT (199,878,933 USD) transferred from Tether Treasury to #Binance ."
+  },
+  {
+   "id": "23a54ad64e297ccd",
+   "seen_at": "2026-11-27T23:38:04Z",
+   "source": "Whale Alert",
+   "kind": "telegram",
+   "link": "https://t.me/whale_alert_io/105376",
+   "title": "💤 A dormant address containing 0.05 $BTC (2,992 USD) has just been activated after 16.4 years!."
+  },
+  {
+   "id": "ffb44682352227e5",
+   "seen_at": "2026-11-27T23:12:02Z",
+   "source": "CryptoSlate",
+   "kind": "news",
+   "link": "https://cryptoslate.com/chainflip-identifies-who-lost-money-in-12-6-million-hack-as-recovery-plan-takes-shape/",
+   "title": "Chainflip identifies who lost money in $12.6 million hack as recovery plan takes shape"
+  }
+ ],
+ "disclaimer": "Information only, not investment advice."
+}
